@@ -2,7 +2,7 @@
     <a href="https://www.allyssapanganiban.com/" ><b>Allyssa</b></a>!
 </h2>
   
-🎓 I am currently a third-year student at Villanova University studying CS with a minor in Business (AI/ML). 
+🎓 I am a third-year student at Villanova University studying CS with a minor in Business (AI/ML). 
 
 💻 My primary interests currently lie in front-end development and data science - I love creating comprehensive applications that enhance the user experience. Simultaneously, I uncover insights from data to drive decision-making and innovation.
 
